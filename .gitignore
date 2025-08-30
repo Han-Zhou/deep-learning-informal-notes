@@ -1,0 +1,7 @@
+__pycache__
+.ipynb_checkpoints
+.ropeproject
+.ruff_cache
+venv
+pyproject.toml
+
